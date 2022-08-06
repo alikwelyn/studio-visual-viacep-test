@@ -1,0 +1,287 @@
+@media (min-width: 1281px) and (max-width: 1600px) {
+#sobre h2{
+  font-size: 45px;
+}
+#sobre p{
+  font-size: 15px;
+  padding: 1em 6em 1em 3em;
+}
+#sobre p strong{
+  font-size: 15px;
+}
+#sobre .card .card-header .card-text span {
+  font-size: 15px;
+}
+#sobre .card .card-header .card-image img {
+  width: 50px;
+  height: 50px;
+}
+#sobre .card .card-header .card-text span strong{
+  font-size: 15px;
+}
+}
+@media (min-width: 1025px) and (max-width: 1280px) {
+#sobre h2{
+  font-size: 30px;
+}
+#sobre p{
+  font-size: 14px;
+  padding: 1em 3em 0 2em;
+}
+#sobre p strong{
+  font-size: 14px;
+}
+#sobre #icones {
+  padding: 0 0 0 1.2em;
+}
+#sobre .card {
+  width: 480px;
+}
+#sobre .card .card-header .card-image img {
+  width: 60px;
+  height: 60px;
+}
+#sobre .card .card-header .card-text {
+  padding-left: 10px;
+}
+#sobre .card .card-header .card-text span {
+  font-size: 14px;
+}
+#sobre .card .card-header .card-text span strong{
+  font-size: 14px;
+}
+
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+.carousel-item {
+  height: 80vh;
+}
+
+#sobre h2{
+  font-size: 25px;
+}
+#sobre p{
+  font-size: 12px;
+  padding: 1em 3em 0 2em;
+}
+#sobre p strong{
+  font-size: 12px;
+}
+#sobre #icones {
+  padding: 0 0 0 1.2em;
+}
+#sobre .card {
+  width: 480px;
+}
+#sobre .card .card-header .card-image img {
+  width: 40px;
+  height: 40px;
+}
+#sobre .card .card-header .card-text {
+  padding-left: 10px;
+}
+#sobre .card .card-header .card-text span {
+  font-size: 12px;
+}
+#sobre .card .card-header .card-text span strong{
+  font-size: 12px;
+}
+
+#especialidades h2{
+  font-size: 50px;
+}
+#especialidades p{
+  font-size: 16px;
+}
+#especialidades .card {
+  width: 400px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+#especialidades .card .card-header .card-image img {
+  width: 150px;
+  height: 113px;
+}
+
+#servicos .card img {
+  width: 50px;
+  height: 50px;
+}
+#servicos .card .card-body h3.card-title{
+  font-size: 20px;
+}
+
+#projetos .card img {
+  width: 300px;
+  height: 166px;
+}
+
+/*#blog-page h2 {
+  font-size: 40px;
+}
+.blog .card {
+  margin: .5em;
+}
+.envira-gallery-wrap .envira-gallery-public .envira-gallery-item-inner {
+    margin-left: 1em;
+}*/
+}
+@media (min-width: 320px) and (max-width: 480px) {
+.navbar .social-part{
+  display: none;
+}
+.navbar-scroll {
+  padding: 0.5rem 1rem;
+}
+
+.carousel-item {
+  margin-top: 5.5em;
+  height: 20vh;
+  min-height: 220px;
+}
+.carousel-caption .btn__orange{
+  margin-bottom: 2em;
+}
+
+#sobre h2 {
+  padding: .5em .3em 0 .3em;
+}
+#sobre h3{
+  padding: .5em .3em 0 1em;
+}
+#sobre p {
+  padding: .5em 1em;
+}
+#sobre #icones {
+  padding: 0 1em;
+}
+#sobre .card {
+  width: auto;
+  background-color: transparent;
+  border: none;
+}
+
+#slim-banner .container {
+  padding: 1em 3em;
+  text-align: center;
+}
+#slim-banner h3 {
+  font-size: 20px;
+}
+
+
+#contato{
+  padding: 2em 1em;
+}
+
+/*#blog-page h2 {
+  text-align: center;
+  padding-bottom: .5em;
+}
+#blog-page #search-input {
+  text-align: center;
+  margin: .5em auto;
+  float: none;
+}
+#blog-page article {
+  margin: 0 1em;
+}
+#blog-single .share{
+  padding: 0 1em;
+}
+#blog-single .post-tags {
+  padding: 1em 1em 0 1em;
+}
+#blog-single .blog-posts-nav {
+  padding: 0 1em;
+  margin: 38px auto;
+}
+#blog-single h2.related-posts {
+  padding: 0 1em;
+}
+.post-single .single-header {
+  left: 10px;
+}
+.post-single p{
+  padding: 0 1em;
+}
+.post-single blockquote > p {
+  padding: 0 1em;
+  margin-bottom: 8px;
+  font-size: 20px;
+}
+#search .list-group {
+  margin: 0 1em 20px 1em;
+}*/
+
+#especialidades h2{
+  font-size: 30px;
+  text-align: center;
+}
+#especialidades p{
+  text-align: center;
+}
+#especialidades .card {
+  width: auto;
+}
+#especialidades .card .card-header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+#especialidades .card .card-header .card-text {
+  padding-top: 15px;
+  padding-left: 0;
+}
+
+#servicos h2{
+  font-size: 45px;
+}
+#servicos .card img {
+  margin: 0 auto;
+}
+#servicos .card .card-body h3.card-title{
+  font-size: 20px;
+  text-align: center;
+}
+#servicos .card .card-body p{
+  text-align: center;
+}
+
+#projetos h2{
+  font-size: 45px;
+}
+#projetos .card img {
+  margin: 0 auto;
+}
+#projetos .card .card-body h3.card-title{
+  font-size: 20px;
+  text-align: center;
+}
+#projetos .card .card-body p{
+  text-align: center;
+}
+
+#contato h2{
+  font-size: 45px;
+}
+
+.btn__orange {
+  padding: 8px 20px;
+}
+.btn__white {
+  padding: 8px 20px;
+}
+#nossos-profissionais h2{
+  font-size: 30px;
+}
+footer p.end{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  margin-top: 1em;
+  padding: 0 .5em;
+}
+}
